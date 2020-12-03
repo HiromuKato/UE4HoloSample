@@ -44,6 +44,14 @@
 				"Android",
 				"IOS"
 			]
+		},
+		{
+			"Name": "MicroSoftSpatialSound",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"HoloLens",
+				"Win64"
+			]
 		}
 	]
 }
