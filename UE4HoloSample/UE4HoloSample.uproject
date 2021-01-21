@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.25",
+	"EngineAssociation": "4.26",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -15,7 +15,6 @@
 			"Name": "HoloLensAR",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"HoloLens",
 				"Win64"
 			]
 		},
@@ -38,11 +37,11 @@
 		{
 			"Name": "UXTools",
 			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f9f9cddaf5834ad1abeda49da34adf85",
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"HoloLens",
-				"Android",
-				"IOS"
+				"Android"
 			]
 		},
 		{
