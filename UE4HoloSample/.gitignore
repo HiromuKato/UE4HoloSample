@@ -76,3 +76,5 @@ DerivedDataCache/*
 Apps
 Plugins/UXTools.0.11.0/UXTools/Binaries/*
 Plugins/UXTools.0.11.0/UXTools/Intermediate/*
+Plugins/MicrosoftOpenXR.1.0/MicrosoftOpenXR/Binaries/*
+Plugins/MicrosoftOpenXR.1.0/MicrosoftOpenXR/Intermediate/*
