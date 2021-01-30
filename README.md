@@ -2,7 +2,7 @@
 
 UE4 で HoloLens 2 の各種機能をレベルに分けて実装したサンプル集です。
 
-動作確認環境：UE4.25.4
+動作確認環境：UE4.26.0
 
 ## BasicLevel
 
@@ -24,6 +24,8 @@ MRアプリを作るための基本的な準備を済ませた状態のサンプ
 
 ハンドトラッキングのサンプル
 
+**UE4.26では実機で動作しなかったため UE4.25 の実装になっています（4.26版のサンプル自体は残しています）**
+
 - 各関節に点を描画する
 
 [![HandTracking](http://img.youtube.com/vi/LOlRYw0nFRI/0.jpg)](http://www.youtube.com/watch?v=LOlRYw0nFRI "HandTracking")
@@ -31,6 +33,8 @@ MRアプリを作るための基本的な準備を済ませた状態のサンプ
 ## MRCapture
 
 Mixed Reality Capture のサンプル
+
+**実機でのみ動作します**
 
 - カメラで撮影した映像をキューブのマテリアルに反映する
 
@@ -47,6 +51,8 @@ QRコードトラッキングのサンプル
 ## SpatialAnchor
 
 SpatialAnchor のサンプル
+
+**実機でのみ動作します**
 
 - アンカーの保存・読み込みを行い、読み込んだ位置にキューブを表示する
 
@@ -73,3 +79,10 @@ SpatialAnchor のサンプル
 - SetRed, SetGreenの音声を認識してキューブの色を変える
 
 [![SpeechInput](http://img.youtube.com/vi/0JVHpk3xBuI/0.jpg)](http://www.youtube.com/watch?v=0JVHpk3xBuI "SpeechInput")
+
+
+## SystemKeyboard
+
+システムキーボードのサンプル
+
+**実機でのみ動作します**
