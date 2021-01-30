@@ -155,6 +155,7 @@ public class MicrosoftOpenXR : ModuleRules
 			}
 
 			// WinRT lib for some job
+			/*
 			string QRPackage = InstalledPackages.FirstOrDefault(x => x.StartsWith("Microsoft.MixedReality.QR"));
 			if (!string.IsNullOrEmpty(QRPackage))
 			{
@@ -172,6 +173,7 @@ public class MicrosoftOpenXR : ModuleRules
 				RuntimeDependencies.Add(Path.Combine(BinariesFolder, "Microsoft.MixedReality.QR.dll"));
 				RuntimeDependencies.Add(Path.Combine(BinariesFolder, "Microsoft.MixedReality.QR.winmd"));
 			}
+			*/
 
 			if (Target.Platform == UnrealTargetPlatform.Win64)
 			{
