@@ -86,3 +86,12 @@ SpatialAnchor のサンプル
 システムキーボードのサンプル
 
 **実機でのみ動作します**
+
+
+## WinRT
+
+ファイルダイアログを開き HoloLens の Document 配下にテキストを保存するサンプル
+
+**実機でのみ動作します**
+
+[![WinRT](http://img.youtube.com/vi/eDfY3qRIejM/0.jpg)](http://www.youtube.com/watch?v=eDfY3qRIejM "WinRT")

@@ -24,6 +24,6 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 	UFUNCTION(BlueprintCallable, Category = "WinRTSample")
-		void SampleFunc();
+		static void OpenFileDialogue();
 
 };
