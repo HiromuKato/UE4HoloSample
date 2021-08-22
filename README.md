@@ -66,13 +66,16 @@ MRアプリを作るための基本的な準備を済ませた状態のサンプ
 
 [![HandTracking](http://img.youtube.com/vi/LOlRYw0nFRI/0.jpg)](http://www.youtube.com/watch?v=LOlRYw0nFRI "HandTracking")
 
-## MRCapture
+## Photo/Video (PV) Camera Capture
 
-Mixed Reality Capture のサンプル
-
-**UE4.27, OpenXR において現状実機で動作確認できていません**
+Photo/Video (PV) Camera Capture のサンプル
 
 - カメラで撮影した映像をキューブのマテリアルに反映する
+
+**以下の issue の通り不具合があるようですが、Project Settings > Platforms - Windows > Default RHI を DirectX 11 に設定することで動作します**
+
+[PV CamCapture Displaying Blank Texture #20](https://github.com/microsoft/Microsoft-OpenXR-Unreal/issues/20)
+
 
 [![MRCapture](http://img.youtube.com/vi/vMT8NL94Ap0/0.jpg)](http://www.youtube.com/watch?v=vMT8NL94Ap0 "MRCapture")
 
