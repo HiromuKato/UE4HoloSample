@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <!-- For non-C# consumers add a 'Reference' to the 'Microsoft.Azure.SpatialAnchors.winmd' -->
+  <ItemGroup>
+    <Reference Include="$(MicrosoftAzureSpatialAnchorsWinRT-PackagePath)lib\uap10.0\Microsoft.Azure.SpatialAnchors.winmd">
+      <Implementation>Microsoft.Azure.SpatialAnchors.dll</Implementation>
+    </Reference>
+    <ReferenceCopyLocalPaths Include="$(MicrosoftAzureSpatialAnchorsWinRT-PackagePath)runtimes\win10-$(MicrosoftAzureSpatialAnchorsWinRT-Platform)\native\Microsoft.Azure.SpatialAnchors.dll" />
+    <ReferenceCopyLocalPaths Include="$(MicrosoftAzureSpatialAnchorsWinRT-PackagePath)runtimes\win10-$(MicrosoftAzureSpatialAnchorsWinRT-Platform)\native\CoarseRelocUW.dll" />
+  </ItemGroup>
+</Project>

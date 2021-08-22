@@ -1,0 +1,11 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"AzureSpatialAnchorsForOpenXR": "UE4Editor-AzureSpatialAnchorsForOpenXR.dll",
+		"MicrosoftOpenXR": "UE4Editor-MicrosoftOpenXR.dll",
+		"MicrosoftOpenXREditor": "UE4Editor-MicrosoftOpenXREditor.dll",
+		"MicrosoftOpenXRRuntimeSettings": "UE4Editor-MicrosoftOpenXRRuntimeSettings.dll",
+		"NuGetModule": "UE4Editor-NuGetModule.dll"
+	}
+}

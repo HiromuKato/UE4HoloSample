@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-XRSimulationInput.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Intermediate\Build\Win64\UE4HoloSampleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\Win64\UE4Editor\Development\XRSimulationInput\Module.XRSimulationInput.cpp.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\Win64\UE4Editor\Development\XRSimulationInput\Default.rc2.res"
+/OUT:"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\Win64\UE4Editor\Development\XRSimulationInput\UE4Editor-XRSimulationInput.lib"

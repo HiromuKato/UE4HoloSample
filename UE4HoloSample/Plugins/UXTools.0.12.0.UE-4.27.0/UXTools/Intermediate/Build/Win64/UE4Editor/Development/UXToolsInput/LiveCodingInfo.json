@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UXToolsInput.cpp.obj": [
+			"UxtDefaultHandTracker.cpp.obj",
+			"UxtDefaultHandTrackerSubsystem.cpp.obj",
+			"UXToolsInputModule.cpp.obj",
+			"UxtXRSimulationSubsystem.cpp.obj",
+			"UxtXRSimulationViewExtension.cpp.obj"
+		],
+		"Module.UXToolsInput.gen.cpp.obj": [
+			"UxtDefaultHandTrackerSubsystem.gen.cpp.obj",
+			"UXToolsInput.init.gen.cpp.obj",
+			"UxtXRSimulationSubsystem.gen.cpp.obj"
+		]
+	}
+}

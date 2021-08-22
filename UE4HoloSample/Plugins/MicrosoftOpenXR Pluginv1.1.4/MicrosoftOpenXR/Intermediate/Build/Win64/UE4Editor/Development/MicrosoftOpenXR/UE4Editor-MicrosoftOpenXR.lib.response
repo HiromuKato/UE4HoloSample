@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MicrosoftOpenXR.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\MicrosoftOpenXR\PCH.MicrosoftOpenXR.h.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\MicrosoftOpenXR\HandMeshPlugin.cpp.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\MicrosoftOpenXR\HolographicRemotingPlugin.cpp.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\MicrosoftOpenXR\HolographicWindowAttachmentPlugin.cpp.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\MicrosoftOpenXR\LocatableCamPlugin.cpp.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\MicrosoftOpenXR\MicrosoftOpenXR.cpp.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\MicrosoftOpenXR\OpenXRCameraImageTexture.cpp.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\MicrosoftOpenXR\OpenXRCommon.cpp.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\MicrosoftOpenXR\QRTrackingPlugin.cpp.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\MicrosoftOpenXR\SecondaryViewConfiguration.cpp.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\MicrosoftOpenXR\SpatialAnchorPlugin.cpp.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\MicrosoftOpenXR\SpatialMappingPlugin.cpp.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\MicrosoftOpenXR\SpeechPlugin.cpp.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\MicrosoftOpenXR\TrackedGeometryCollision.cpp.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\MicrosoftOpenXR\MicrosoftOpenXR.gen.cpp.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\MicrosoftOpenXR\MicrosoftOpenXR.init.gen.cpp.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\MicrosoftOpenXR\OpenXRCameraImageTexture.gen.cpp.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\MicrosoftOpenXR\Default.rc2.res"
+/OUT:"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\MicrosoftOpenXR\UE4Editor-MicrosoftOpenXR.lib"

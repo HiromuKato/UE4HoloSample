@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UXToolsEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Intermediate\Build\Win64\UE4HoloSampleEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXToolsEditor\Module.UXToolsEditor.cpp.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXToolsEditor\Module.UXToolsEditor.gen.cpp.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXToolsEditor\Default.rc2.res"
+/OUT:"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXToolsEditor\UE4Editor-UXToolsEditor.lib"

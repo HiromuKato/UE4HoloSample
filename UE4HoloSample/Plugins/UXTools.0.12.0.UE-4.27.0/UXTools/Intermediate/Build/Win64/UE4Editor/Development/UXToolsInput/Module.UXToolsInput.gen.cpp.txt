@@ -1,0 +1,25 @@
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXToolsInput\Definitions.UXToolsInput.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/Win64/UE4Editor/Inc/UXToolsInput/UxtDefaultHandTrackerSubsystem.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXToolsInput/Private/UxtDefaultHandTrackerSubsystem.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXToolsInput\Private\UxtDefaultHandTracker.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools\Public\HandTracking/IUxtHandTracker.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\Win64\UE4Editor\Inc\UXToolsInput\UxtDefaultHandTrackerSubsystem.generated.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/Win64/UE4Editor/Inc/UXToolsInput/UXToolsInput.init.gen.cpp
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/Win64/UE4Editor/Inc/UXToolsInput/UxtXRSimulationSubsystem.gen.cpp
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXToolsInput/Private/UxtXRSimulationSubsystem.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\XRSimulation\Public\XRSimulationState.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Subsystems/LocalPlayerSubsystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LocalPlayerSubsystem.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\Win64\UE4Editor\Inc\UXToolsInput\UxtXRSimulationSubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine/Classes/Engine/LocalPlayer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreOnline.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Player.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Player.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineReplStructs.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\OnlineReplStructs.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LocalPlayer.generated.h

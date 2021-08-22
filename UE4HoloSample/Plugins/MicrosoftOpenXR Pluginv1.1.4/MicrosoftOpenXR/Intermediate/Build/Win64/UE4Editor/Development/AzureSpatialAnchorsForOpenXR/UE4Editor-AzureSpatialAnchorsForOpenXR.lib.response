@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AzureSpatialAnchorsForOpenXR.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Intermediate\Build\Win64\UE4HoloSampleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.Cpp17.h.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\AzureSpatialAnchorsForOpenXR\AzureSpatialAnchorsForOpenXR.cpp.obj"
+"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\AzureSpatialAnchorsForOpenXR\Default.rc2.res"
+/OUT:"F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\AzureSpatialAnchorsForOpenXR\UE4Editor-AzureSpatialAnchorsForOpenXR.lib"

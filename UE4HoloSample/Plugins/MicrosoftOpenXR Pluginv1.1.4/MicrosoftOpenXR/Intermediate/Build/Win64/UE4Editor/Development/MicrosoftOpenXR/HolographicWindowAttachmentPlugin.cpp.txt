@@ -1,0 +1,1 @@
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR\Private\HolographicWindowAttachmentPlugin.h

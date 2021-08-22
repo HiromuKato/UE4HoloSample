@@ -1,0 +1,13 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"UXTools": "UE4Editor-UXTools.dll",
+		"UXToolsEditor": "UE4Editor-UXToolsEditor.dll",
+		"UXToolsInput": "UE4Editor-UXToolsInput.dll",
+		"UXToolsShaders": "UE4Editor-UXToolsShaders.dll",
+		"XRSimulation": "UE4Editor-XRSimulation.dll",
+		"XRSimulationEditor": "UE4Editor-XRSimulationEditor.dll",
+		"XRSimulationInput": "UE4Editor-XRSimulationInput.dll"
+	}
+}

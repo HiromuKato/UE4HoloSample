@@ -1,0 +1,25 @@
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR\Private\HandMeshPlugin.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR\Public\MicrosoftOpenXR.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputComponent.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Inc\MicrosoftOpenXR\MicrosoftOpenXR.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IHandTracker.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Public\OpenXRCore.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR\Private\External\openxr/openxr_reflection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IIdentifiableXRDevice.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRInput.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\XRGestureConfig.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\StereoRendering.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Public\IOpenXRARModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\OpenXR\Source\OpenXRAR\Public\IOpenXRARTrackedGeometryHolder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AugmentedReality\Public\ARSupportInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AugmentedReality\Public\ARSessionConfig.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AugmentedReality\Public\ARTrackable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AugmentedReality\Public\ARComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MRMesh\Public\MRMeshBufferDefines.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality\ARComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality\ARTrackable.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality\ARSessionConfig.generated.h

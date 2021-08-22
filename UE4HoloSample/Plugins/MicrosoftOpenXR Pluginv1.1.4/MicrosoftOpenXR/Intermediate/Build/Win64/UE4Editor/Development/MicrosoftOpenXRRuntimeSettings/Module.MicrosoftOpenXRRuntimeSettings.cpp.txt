@@ -1,0 +1,5 @@
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Development\MicrosoftOpenXRRuntimeSettings\Definitions.MicrosoftOpenXRRuntimeSettings.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/MicrosoftOpenXR Pluginv1.1.4/MicrosoftOpenXR/Source/MicrosoftOpenXRRuntimeSettings/Private/MicrosoftOpenXRRuntimeSettings.cpp
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXRRuntimeSettings\Public\MicrosoftOpenXRRuntimeSettings.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\Win64\UE4Editor\Inc\MicrosoftOpenXRRuntimeSettings\MicrosoftOpenXRRuntimeSettings.generated.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/MicrosoftOpenXR Pluginv1.1.4/MicrosoftOpenXR/Source/MicrosoftOpenXRRuntimeSettings/Private/MicrosoftOpenXRRuntimeSettingsModule.cpp

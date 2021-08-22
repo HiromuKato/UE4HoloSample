@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.XRSimulation.cpp.obj": [
+			"XRSimulationActor.cpp.obj",
+			"XRSimulationHeadMovementComponent.cpp.obj",
+			"XRSimulationHMD.cpp.obj",
+			"XRSimulationModule.cpp.obj",
+			"XRSimulationRuntimeSettings.cpp.obj",
+			"XRSimulationState.cpp.obj"
+		],
+		"Module.XRSimulation.gen.cpp.obj": [
+			"XRSimulation.init.gen.cpp.obj",
+			"XRSimulationActor.gen.cpp.obj",
+			"XRSimulationHeadMovementComponent.gen.cpp.obj",
+			"XRSimulationRuntimeSettings.gen.cpp.obj"
+		]
+	}
+}

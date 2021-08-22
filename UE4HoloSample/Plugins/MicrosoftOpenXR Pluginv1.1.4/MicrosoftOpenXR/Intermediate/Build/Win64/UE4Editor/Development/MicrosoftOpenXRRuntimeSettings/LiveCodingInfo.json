@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MicrosoftOpenXRRuntimeSettings.cpp.obj": [
+			"MicrosoftOpenXRRuntimeSettings.cpp.obj",
+			"MicrosoftOpenXRRuntimeSettingsModule.cpp.obj"
+		],
+		"Module.MicrosoftOpenXRRuntimeSettings.gen.cpp.obj": [
+			"MicrosoftOpenXRRuntimeSettings.gen.cpp.obj",
+			"MicrosoftOpenXRRuntimeSettings.init.gen.cpp.obj"
+		]
+	}
+}
