@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define UXTOOLS_UxtInteractionMode_generated_h
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtInteractionMode_h
+#define CURRENT_FILE_ID UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Interactions_UxtInteractionMode_h
 
 
 #define FOREACH_ENUM_EUXTGRABMODE(op) \

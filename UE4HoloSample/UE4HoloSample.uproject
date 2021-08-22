@@ -22,22 +22,6 @@
 			]
 		},
 		{
-			"Name": "WindowsMixedReality",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"HoloLens"
-			]
-		},
-		{
-			"Name": "AzureSpatialAnchorsForWMR",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"HoloLens"
-			]
-		},
-		{
 			"Name": "UXTools",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f9f9cddaf5834ad1abeda49da34adf85",
@@ -45,14 +29,6 @@
 				"Win64",
 				"HoloLens",
 				"Android"
-			]
-		},
-		{
-			"Name": "MicroSoftSpatialSound",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"HoloLens",
-				"Win64"
 			]
 		},
 		{

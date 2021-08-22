@@ -1,0 +1,353 @@
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR\Public\MicrosoftOpenXR.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ActorComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\EdGraph/EdGraphPin.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\EdGraph/EdGraphNode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\EdGraphNode.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\EdGraphPin.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectAnnotation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/StructOnScope.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\ComponentInstanceDataCache.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\ComponentInstanceDataCache.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\ActorComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Net\Core\Public\Net/Core/PushModel/PushModelMacros.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Commands/InputChord.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Slate\InputChord.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\InputComponent.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\HoloLens\arm64\UE4\Inc\MicrosoftOpenXR\MicrosoftOpenXR.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR\Private\HolographicWindowAttachmentPlugin.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR\Private\HolographicRemotingPlugin.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR\Private\SpatialAnchorPlugin.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/Windows.Perception.Spatial.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/base.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/Windows.Perception.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/base.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Perception.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Perception.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Perception.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Foundation.Numerics.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Foundation.Numerics.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Foundation.Numerics.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Storage.Streams.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Storage.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Storage.Streams.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Storage.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.System.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.System.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Storage.Streams.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.System.RemoteSystems.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.ApplicationModel.AppService.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.ApplicationModel.AppService.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Networking.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Networking.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Security.Credentials.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Security.Credentials.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.System.RemoteSystems.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.System.RemoteSystems.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Perception.Spatial.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Perception.Spatial.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Perception.Spatial.0.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\INCLUDE\mutex
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\INCLUDE\xcall_once.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR\Private\HandMeshPlugin.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IHandTracker.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR\Private\QRTrackingPlugin.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/Windows.Perception.Spatial.Surfaces.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/base.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Graphics.DirectX.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Graphics.DirectX.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Graphics.DirectX.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Perception.Spatial.Surfaces.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Perception.Spatial.Surfaces.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Perception.Spatial.Surfaces.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/Microsoft.MixedReality.QR.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/base.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Microsoft.MixedReality.QR.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Microsoft.MixedReality.QR.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Microsoft.MixedReality.QR.0.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/EngineVersionComparison.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Launch/Resources/Version.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR\Private\LocatableCamPlugin.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\INCLUDE\sstream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\locale.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/Windows.Media.Capture.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/base.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/Windows.Media.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/base.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.ApplicationModel.AppService.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Graphics.DirectX.Direct3D11.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Graphics.DirectX.Direct3D11.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Graphics.DirectX.Direct3D11.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Graphics.Imaging.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Graphics.Imaging.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Graphics.Imaging.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Storage.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Storage.Search.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Storage.Search.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Capture.Core.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Capture.Core.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Capture.Core.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Capture.Frames.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Capture.Frames.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Capture.Frames.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Core.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Effects.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Capture.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Capture.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Render.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Render.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Effects.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Effects.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.MediaProperties.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.MediaProperties.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.MediaProperties.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Playback.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Core.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Playback.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Core.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Playback.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Streaming.Adaptive.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Web.Http.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Web.Http.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Streaming.Adaptive.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Streaming.Adaptive.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Networking.BackgroundTransfer.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Networking.BackgroundTransfer.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Networking.BackgroundTransfer.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Devices.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Devices.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Devices.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Capture.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/Windows.Media.Capture.Frames.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/base.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Devices.Enumeration.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Devices.Enumeration.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Devices.Enumeration.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Devices.Core.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Devices.Core.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.Devices.Core.0.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR\Private\SpeechPlugin.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\KeyState.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\PlayerInput.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\SlateFwd.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/LatentActionManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\LatentActionManager.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ChildActorComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\SceneComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\ChildActorComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ITransaction.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc\Change.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Level.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/ScopedCallback.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/MaterialMerging.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\MaterialMerging.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\Level.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\Actor.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAgentInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\NavigationTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\NavAgentInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\Controller.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineReplStructs.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreOnline.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreOnlineFwd.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\OnlineReplStructs.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerMuteList.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\PlayerMuteList.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/PlayerCameraManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineDefines.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Scene.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/BlendableInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\BlendableInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\SceneUtils.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\ProfilingDebugging/RealtimeGPUProfiler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\GpuProfilerTrace.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\Scene.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\CameraTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\PlayerCameraManager.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ForceFeedbackEffect.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/CurveFloat.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/RichCurve.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/KeyHandle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\KeyHandle.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/RealCurve.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/IndexedCurve.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\IndexedCurve.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\RealCurve.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\RichCurve.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/CurveBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/CurveOwnerInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageReload.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\CurveBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\CurveFloat.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\ForceFeedbackEffect.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/UpdateLevelVisibilityLevelInfo.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\UpdateLevelVisibilityLevelInfo.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/IInputInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\PlayerController.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/InputSettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\InputSettings.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Async/Async.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/Runnable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/RunnableThread.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HoloLens/HoloLensPlatformAffinity.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/Windows.Media.SpeechRecognition.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/base.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Globalization.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Globalization.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Globalization.0.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.SpeechRecognition.2.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.SpeechRecognition.1.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/impl/Windows.Media.SpeechRecognition.0.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR\Private\SpatialMappingPlugin.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Public\OpenXRCore.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR\Private\External\openxr/openxr_reflection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Public\IOpenXRARModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\OpenXR\Source\OpenXRAR\Public\IOpenXRARTrackedGeometryHolder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AugmentedReality\Public\ARSupportInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AugmentedReality\Public\ARSessionConfig.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AugmentedReality\Public\ARTrackable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AugmentedReality\Public\ARComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MRMesh\Public\MRMeshBufferDefines.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\AugmentedReality\ARComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\AugmentedReality\ARTrackable.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\AugmentedReality\ARSessionConfig.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Engine.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/World.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\CollisionQueryParams.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\Chaos/ChaosEngineInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Declares.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/ParticleHandleFwd.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Real.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/PBDRigidsEvolutionFwd.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceDeclaresCore.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceWrapperShared.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceTypesCore.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/CollisionFilterData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\ChaosArchive.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\Serializable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/DestructionObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/ExternalPhysicsCustomObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\PhysicsProxy/SingleParticlePhysicsProxyFwd.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\PhysicsCore\ChaosEngineInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\WorldCollision.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\CollisionShape.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Pawn.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\Pawn.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Blueprint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/BlueprintCore.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\BlueprintCore.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/BlueprintGeneratedClass.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\BlueprintGeneratedClass.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Blueprint/BlueprintSupport.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\Blueprint.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/PendingNetGame.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine\NetworkDelegates.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\PendingNetGame.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/GameInstance.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Subsystems/GameInstanceSubsystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Subsystems/Subsystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\Subsystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\GameInstanceSubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Subsystems/SubsystemCollection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\GameInstance.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Physics/PhysicsInterfaceDeclares.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/WorldPSCPool.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\WorldPSCPool.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\AudioDeviceManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AudioMixerCore\Public\AudioDefines.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\AudioThread.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Subsystems/WorldSubsystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine/Public/Tickable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\WorldSubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine\CollisionProfile.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\DeveloperSettings\Public\Engine/DeveloperSettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\DeveloperSettings\DeveloperSettings.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\CollisionProfile.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\World.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/BufferedOutputDevice.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Subsystems/EngineSubsystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\EngineSubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\Engine.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR\Private\WindowsMixedRealityInteropUtility.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/base.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IIdentifiableXRDevice.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRInput.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\XRGestureConfig.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\StereoRendering.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR\Private\TrackedGeometryCollision.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\DirectXPackedVector.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\DirectXPackedVector.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR\Private\SecondaryViewConfiguration.h

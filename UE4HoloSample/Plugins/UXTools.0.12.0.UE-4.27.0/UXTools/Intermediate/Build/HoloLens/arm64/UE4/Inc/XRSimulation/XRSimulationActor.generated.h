@@ -18,8 +18,8 @@ struct FTransform;
 #endif
 #define XRSIMULATION_XRSimulationActor_generated_h
 
-#define HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_SPARSE_DATA
-#define HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_RPC_WRAPPERS \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_SPARSE_DATA
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execGetRightHand); \
 	DECLARE_FUNCTION(execGetLeftHand); \
@@ -27,7 +27,7 @@ struct FTransform;
 	DECLARE_FUNCTION(execGetTargetHandPose);
 
 
-#define HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execGetRightHand); \
 	DECLARE_FUNCTION(execGetLeftHand); \
@@ -35,7 +35,7 @@ struct FTransform;
 	DECLARE_FUNCTION(execGetTargetHandPose);
 
 
-#define HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_INCLASS_NO_PURE_DECLS \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAXRSimulationActor(); \
 	friend struct Z_Construct_UClass_AXRSimulationActor_Statics; \
@@ -44,7 +44,7 @@ public: \
 	DECLARE_SERIALIZER(AXRSimulationActor)
 
 
-#define HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_INCLASS \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_INCLASS \
 private: \
 	static void StaticRegisterNativesAXRSimulationActor(); \
 	friend struct Z_Construct_UClass_AXRSimulationActor_Statics; \
@@ -53,7 +53,7 @@ public: \
 	DECLARE_SERIALIZER(AXRSimulationActor)
 
 
-#define HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_STANDARD_CONSTRUCTORS \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AXRSimulationActor(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AXRSimulationActor) \
@@ -66,7 +66,7 @@ private: \
 public:
 
 
-#define HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_ENHANCED_CONSTRUCTORS \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AXRSimulationActor(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -79,33 +79,33 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AXRSimulationActor)
 
 
-#define HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_PRIVATE_PROPERTY_OFFSET \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__HeadMovement() { return STRUCT_OFFSET(AXRSimulationActor, HeadMovement); } \
 	FORCEINLINE static uint32 __PPO__LeftHand() { return STRUCT_OFFSET(AXRSimulationActor, LeftHand); } \
 	FORCEINLINE static uint32 __PPO__RightHand() { return STRUCT_OFFSET(AXRSimulationActor, RightHand); }
 
 
-#define HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_18_PROLOG
-#define HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_GENERATED_BODY_LEGACY \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_18_PROLOG
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_PRIVATE_PROPERTY_OFFSET \
-	HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_SPARSE_DATA \
-	HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_RPC_WRAPPERS \
-	HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_INCLASS \
-	HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_STANDARD_CONSTRUCTORS \
+	UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_PRIVATE_PROPERTY_OFFSET \
+	UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_SPARSE_DATA \
+	UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_RPC_WRAPPERS \
+	UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_INCLASS \
+	UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_GENERATED_BODY \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_PRIVATE_PROPERTY_OFFSET \
-	HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_SPARSE_DATA \
-	HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
-	HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_INCLASS_NO_PURE_DECLS \
-	HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_ENHANCED_CONSTRUCTORS \
+	UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_PRIVATE_PROPERTY_OFFSET \
+	UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_SPARSE_DATA \
+	UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
+	UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_INCLASS_NO_PURE_DECLS \
+	UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h_21_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class XRSimulationActor."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -113,7 +113,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> XRSIMULATION_API UClass* StaticClass<class AXRSimulationActor>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID HostProject_Plugins_UXTools_Source_XRSimulation_Public_XRSimulationActor_h
+#define CURRENT_FILE_ID UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_XRSimulation_Public_XRSimulationActor_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -19,7 +19,7 @@ class USceneComponent;
 #endif
 #define UXTOOLS_UxtPressableButtonComponent_generated_h
 
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_78_DELEGATE \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_78_DELEGATE \
 struct _Script_UXTools_eventUxtButtonDisabledDelegate_Parms \
 { \
 	UUxtPressableButtonComponent* Button; \
@@ -32,7 +32,7 @@ static inline void FUxtButtonDisabledDelegate_DelegateWrapper(const FMulticastSc
 }
 
 
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_77_DELEGATE \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_77_DELEGATE \
 struct _Script_UXTools_eventUxtButtonEnabledDelegate_Parms \
 { \
 	UUxtPressableButtonComponent* Button; \
@@ -45,7 +45,7 @@ static inline void FUxtButtonEnabledDelegate_DelegateWrapper(const FMulticastScr
 }
 
 
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_76_DELEGATE \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_76_DELEGATE \
 struct _Script_UXTools_eventUxtButtonReleasedDelegate_Parms \
 { \
 	UUxtPressableButtonComponent* Button; \
@@ -60,7 +60,7 @@ static inline void FUxtButtonReleasedDelegate_DelegateWrapper(const FMulticastSc
 }
 
 
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_74_DELEGATE \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_74_DELEGATE \
 struct _Script_UXTools_eventUxtButtonPressedDelegate_Parms \
 { \
 	UUxtPressableButtonComponent* Button; \
@@ -75,7 +75,7 @@ static inline void FUxtButtonPressedDelegate_DelegateWrapper(const FMulticastScr
 }
 
 
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_72_DELEGATE \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_72_DELEGATE \
 struct _Script_UXTools_eventUxtButtonEndPokeDelegate_Parms \
 { \
 	UUxtPressableButtonComponent* Button; \
@@ -90,7 +90,7 @@ static inline void FUxtButtonEndPokeDelegate_DelegateWrapper(const FMulticastScr
 }
 
 
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_70_DELEGATE \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_70_DELEGATE \
 struct _Script_UXTools_eventUxtButtonUpdatePokeDelegate_Parms \
 { \
 	UUxtPressableButtonComponent* Button; \
@@ -105,7 +105,7 @@ static inline void FUxtButtonUpdatePokeDelegate_DelegateWrapper(const FMulticast
 }
 
 
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_68_DELEGATE \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_68_DELEGATE \
 struct _Script_UXTools_eventUxtButtonBeginPokeDelegate_Parms \
 { \
 	UUxtPressableButtonComponent* Button; \
@@ -120,7 +120,7 @@ static inline void FUxtButtonBeginPokeDelegate_DelegateWrapper(const FMulticastS
 }
 
 
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_66_DELEGATE \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_66_DELEGATE \
 struct _Script_UXTools_eventUxtButtonEndFocusDelegate_Parms \
 { \
 	UUxtPressableButtonComponent* Button; \
@@ -137,7 +137,7 @@ static inline void FUxtButtonEndFocusDelegate_DelegateWrapper(const FMulticastSc
 }
 
 
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_64_DELEGATE \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_64_DELEGATE \
 struct _Script_UXTools_eventUxtButtonUpdateFocusDelegate_Parms \
 { \
 	UUxtPressableButtonComponent* Button; \
@@ -152,7 +152,7 @@ static inline void FUxtButtonUpdateFocusDelegate_DelegateWrapper(const FMulticas
 }
 
 
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_62_DELEGATE \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_62_DELEGATE \
 struct _Script_UXTools_eventUxtButtonBeginFocusDelegate_Parms \
 { \
 	UUxtPressableButtonComponent* Button; \
@@ -169,8 +169,8 @@ static inline void FUxtButtonBeginFocusDelegate_DelegateWrapper(const FMulticast
 }
 
 
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_SPARSE_DATA
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_RPC_WRAPPERS \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_SPARSE_DATA
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSetMaxPushDistance); \
 	DECLARE_FUNCTION(execGetMaxPushDistance); \
@@ -187,7 +187,7 @@ static inline void FUxtButtonBeginFocusDelegate_DelegateWrapper(const FMulticast
 	DECLARE_FUNCTION(execGetFrontFaceCollisionFraction);
 
 
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_RPC_WRAPPERS_NO_PURE_DECLS \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSetMaxPushDistance); \
 	DECLARE_FUNCTION(execGetMaxPushDistance); \
@@ -204,7 +204,7 @@ static inline void FUxtButtonBeginFocusDelegate_DelegateWrapper(const FMulticast
 	DECLARE_FUNCTION(execGetFrontFaceCollisionFraction);
 
 
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_INCLASS_NO_PURE_DECLS \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUUxtPressableButtonComponent(); \
 	friend struct Z_Construct_UClass_UUxtPressableButtonComponent_Statics; \
@@ -214,7 +214,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<UUxtPressableButtonComponent*>(this); }
 
 
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_INCLASS \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_INCLASS \
 private: \
 	static void StaticRegisterNativesUUxtPressableButtonComponent(); \
 	friend struct Z_Construct_UClass_UUxtPressableButtonComponent_Statics; \
@@ -224,7 +224,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<UUxtPressableButtonComponent*>(this); }
 
 
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_STANDARD_CONSTRUCTORS \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UUxtPressableButtonComponent(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUxtPressableButtonComponent) \
@@ -237,7 +237,7 @@ private: \
 public:
 
 
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_ENHANCED_CONSTRUCTORS \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UUxtPressableButtonComponent(UUxtPressableButtonComponent&&); \
@@ -248,7 +248,7 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UUxtPressableButtonComponent)
 
 
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_PRIVATE_PROPERTY_OFFSET \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__PushBehavior() { return STRUCT_OFFSET(UUxtPressableButtonComponent, PushBehavior); } \
 	FORCEINLINE static uint32 __PPO__MaxPushDistance() { return STRUCT_OFFSET(UUxtPressableButtonComponent, MaxPushDistance); } \
 	FORCEINLINE static uint32 __PPO__FrontFaceCollisionFraction() { return STRUCT_OFFSET(UUxtPressableButtonComponent, FrontFaceCollisionFraction); } \
@@ -257,27 +257,27 @@ public: \
 	FORCEINLINE static uint32 __PPO__bUseAbsolutePushDistance() { return STRUCT_OFFSET(UUxtPressableButtonComponent, bUseAbsolutePushDistance); }
 
 
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_83_PROLOG
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_GENERATED_BODY_LEGACY \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_83_PROLOG
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_PRIVATE_PROPERTY_OFFSET \
-	HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_SPARSE_DATA \
-	HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_RPC_WRAPPERS \
-	HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_INCLASS \
-	HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_STANDARD_CONSTRUCTORS \
+	UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_PRIVATE_PROPERTY_OFFSET \
+	UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_SPARSE_DATA \
+	UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_RPC_WRAPPERS \
+	UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_INCLASS \
+	UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_GENERATED_BODY \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_PRIVATE_PROPERTY_OFFSET \
-	HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_SPARSE_DATA \
-	HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_RPC_WRAPPERS_NO_PURE_DECLS \
-	HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_INCLASS_NO_PURE_DECLS \
-	HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_ENHANCED_CONSTRUCTORS \
+	UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_PRIVATE_PROPERTY_OFFSET \
+	UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_SPARSE_DATA \
+	UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_RPC_WRAPPERS_NO_PURE_DECLS \
+	UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_INCLASS_NO_PURE_DECLS \
+	UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h_92_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -285,7 +285,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> UXTOOLS_API UClass* StaticClass<class UUxtPressableButtonComponent>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h
+#define CURRENT_FILE_ID UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtPressableButtonComponent_h
 
 
 #define FOREACH_ENUM_EUXTBUTTONSTATE(op) \

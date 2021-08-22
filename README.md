@@ -2,7 +2,14 @@
 
 UE4 で HoloLens 2 の各種機能をレベルに分けて実装したサンプル集です。
 
-動作確認環境：UE4.26.0
+動作確認環境：
+- Unreal Engine
+  - 4.27.0
+- HoloLens 2
+  - バージョン：21H1
+  - OS ビルド：20348.1014
+
+**Windows Mixed Reality プラグインは無効にし、 Microsoft OpenXR Plugin を有効にしています**
 
 ## BasicLevel
 
@@ -18,15 +25,15 @@ MRアプリを作るための基本的な準備を済ませた状態のサンプ
 
 - 視線の方向に青いラインが描画される
 
+**実機でのみ動作します（以前はストリーミングで動作しましたが、現在 IsEyeTrackerConnected がストリーミングだと False になります）**
+
 [![EyeTracking](http://img.youtube.com/vi/b8a6w-cYvTk/0.jpg)](http://www.youtube.com/watch?v=b8a6w-cYvTk "EyeTracking")
 
 ## HandTracking
 
 ハンドトラッキングのサンプル
 
-**UE4.26では実機で動作しなかったため UE4.25 の実装になっています（4.26版のサンプル自体は残しています）**
-
-- 各関節に点を描画する
+- 手の位置にハンドメッシュを描画する
 
 [![HandTracking](http://img.youtube.com/vi/LOlRYw0nFRI/0.jpg)](http://www.youtube.com/watch?v=LOlRYw0nFRI "HandTracking")
 
@@ -34,7 +41,7 @@ MRアプリを作るための基本的な準備を済ませた状態のサンプ
 
 Mixed Reality Capture のサンプル
 
-**実機でのみ動作します**
+**UE4.27, OpenXR において現状実機で動作確認できていません**
 
 - カメラで撮影した映像をキューブのマテリアルに反映する
 
@@ -62,6 +69,8 @@ SpatialAnchor のサンプル
 
 - 球の位置からホワイトノイズが再生される
 
+**パッケージ作成時に Microsoft OpenXR Plugin プラグインと MicrosoftSpatialSound プラグインが競合してエラーがでるため、MicrosoftSpatialSoundを無効にしています。そのため現在動作しません**
+
 [![SpatialAudio](http://img.youtube.com/vi/pzE_PEUYVyg/0.jpg)](http://www.youtube.com/watch?v=pzE_PEUYVyg "SpatialAudio")
 
 ## SpatialMapping
@@ -85,7 +94,7 @@ SpatialAnchor のサンプル
 
 システムキーボードのサンプル
 
-**実機でのみ動作します**
+**UE4.27, OpenXR において現状実機で動作確認できていません**
 
 
 ## WinRT

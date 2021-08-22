@@ -1,0 +1,19 @@
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Development\XRSimulation\Definitions.XRSimulation.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/XRSimulation/XRSimulation.init.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/XRSimulation/XRSimulationActor.gen.cpp
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\XRSimulation/Public/XRSimulationActor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\XRSimulation\Public\XRSimulationState.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\XRSimulation\XRSimulationActor.generated.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/XRSimulation/XRSimulationHeadMovementComponent.gen.cpp
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\XRSimulation/Public/XRSimulationHeadMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\MovementComponent.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\XRSimulation\XRSimulationHeadMovementComponent.generated.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/XRSimulation/XRSimulationRuntimeSettings.gen.cpp
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\XRSimulation/Public/XRSimulationRuntimeSettings.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\XRSimulation\XRSimulationRuntimeSettings.generated.h

@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define UXTOOLS_UxtTextBrush_generated_h
 
-#define HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTextBrush_h_19_GENERATED_BODY \
+#define UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtTextBrush_h_19_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FUxtTextBrush_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> UXTOOLS_API UScriptStruct* StaticStruct<struct FUxtTextBrush>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTextBrush_h
+#define CURRENT_FILE_ID UE4HoloSample_Plugins_UXTools_0_12_0_UE_4_27_0_UXTools_Source_UXTools_Public_Controls_UxtTextBrush_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

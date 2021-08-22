@@ -1,0 +1,73 @@
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Development\UXTools\Definitions.UXTools.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtBackPlateComponent.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools/Public/Controls/UxtBackPlateComponent.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtBackPlateComponent.generated.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtBaseObjectCollection.gen.cpp
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools/Public/Controls/UxtBaseObjectCollection.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools\Public\Controls/UxtCollectionObject.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtCollectionObject.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtBaseObjectCollection.generated.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtBasePressableButtonActor.gen.cpp
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools/Public/Controls/UxtBasePressableButtonActor.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtBasePressableButtonActor.generated.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtBoundsControlComponent.gen.cpp
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools/Public/Controls/UxtBoundsControlComponent.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools\Public\Controls/UxtBoundsControlConfig.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools\Public\Interactions/UxtManipulationFlags.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtManipulationFlags.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtBoundsControlConfig.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools\Public\Interactions/UxtGrabTargetComponent.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools\Public\Interactions/UxtFarHandler.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtFarHandler.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools\Public\Interactions/UxtFarTarget.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtFarTarget.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools\Public\Interactions/UxtGrabHandler.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtGrabHandler.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools\Public\Interactions/UxtGrabTarget.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtGrabTarget.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools\Public\Interactions/UxtManipulatorComponent.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools\Public\Interactions\Constraints/UxtTransformConstraint.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools\Public\Interactions/UxtInteractionMode.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtInteractionMode.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtTransformConstraint.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtManipulatorComponent.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtGrabTargetComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialParameterCollection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\MaterialParameterCollection.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtBoundsControlComponent.generated.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtBoundsControlConfig.gen.cpp
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtButtonBrush.gen.cpp
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools/Public/Controls/UxtButtonBrush.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtButtonBrush.generated.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtCollectionObject.gen.cpp
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtFaceUserConstraint.gen.cpp
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools/Public/Interactions/Constraints/UxtFaceUserConstraint.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtFaceUserConstraint.generated.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtFarBeamComponent.gen.cpp
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools/Public/Controls/UxtFarBeamComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SplineMeshComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\SplineMeshComponent.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtFarBeamComponent.generated.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtFarCursorComponent.gen.cpp
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools/Public/Controls/UxtFarCursorComponent.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools\Public\Controls/UxtRingCursorComponent.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtRingCursorComponent.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtFarCursorComponent.generated.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtFarHandler.gen.cpp
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtFarPointerComponent.gen.cpp
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools/Public/Input/UxtFarPointerComponent.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools\Public\Input\UxtPointerComponent.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtPointerComponent.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtFarPointerComponent.generated.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtFarTarget.gen.cpp
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtFingerCursorComponent.gen.cpp
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools/Public/Controls/UxtFingerCursorComponent.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtFingerCursorComponent.generated.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtFixedDistanceConstraint.gen.cpp
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools/Public/Interactions/Constraints/UxtFixedDistanceConstraint.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtFixedDistanceConstraint.generated.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtFixedRotationToUserConstraint.gen.cpp
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\UXTools/Public/Interactions/Constraints/UxtFixedRotationToUserConstraint.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtFixedRotationToUserConstraint.generated.h

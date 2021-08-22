@@ -1,0 +1,28 @@
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR\Private\OpenXRCameraImageTexture.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Microsoft.Windows.CppWinRT.2.0.201217.4\NuGetModule\winrt/base.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\HoloLens\arm64\UE4\Inc\MicrosoftOpenXR\OpenXRCameraImageTexture.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\GlobalShader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\RHIStaticStates.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ScopedEvent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\PipelineStateCache.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\ShaderParameterUtils.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\SceneUtils.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\ProfilingDebugging/RealtimeGPUProfiler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RHI\Public\GpuProfilerTrace.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\MediaShaders.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\D3D11.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ocidl.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\dxgi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\dxgicommon.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\dxgitype.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\dxgiformat.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\d3dcommon.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\d3d11sdklayers.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\d3d10_1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\d3d10.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\d3d11_1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\dxgi1_2.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/COMPointer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Microsoft/COMPointer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h

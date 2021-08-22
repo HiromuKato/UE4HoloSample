@@ -1,0 +1,20 @@
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR/Public/MicrosoftOpenXR.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ActorComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\EdGraph/EdGraphPin.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\EdGraph/EdGraphNode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\EdGraphNode.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\EdGraphPin.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectAnnotation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/StructOnScope.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\ComponentInstanceDataCache.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\ComponentInstanceDataCache.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\ActorComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Net\Core\Public\Net/Core/PushModel/PushModelMacros.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Commands/InputChord.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Slate\InputChord.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\InputComponent.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\HoloLens\arm64\UE4\Inc\MicrosoftOpenXR\MicrosoftOpenXR.generated.h

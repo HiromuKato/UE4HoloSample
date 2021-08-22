@@ -1,0 +1,86 @@
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Development\XRSimulation\Definitions.XRSimulation.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Source/XRSimulation/Private/XRSimulationActor.cpp
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\XRSimulation\Public\XRSimulationActor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\XRSimulation\Public\XRSimulationState.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\XRSimulation\XRSimulationActor.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\XRSimulation\Public\XRSimulationHeadMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\MovementComponent.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\XRSimulation\XRSimulationHeadMovementComponent.generated.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\XRSimulation\Public\XRSimulationRuntimeSettings.h
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\XRSimulation\XRSimulationRuntimeSettings.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/InputSettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\KeyState.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\PlayerInput.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\InputSettings.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\GameplayStatics.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/RuntimeErrors.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Source/XRSimulation/Private/XRSimulationHeadMovementComponent.cpp
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Source/XRSimulation/Private/XRSimulationHMD.cpp
+F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\UXTools.0.12.0.UE-4.27.0\UXTools\Source\XRSimulation\Public\XRSimulationHMD.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\LateUpdateManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\XRTrackingSystemBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IIdentifiableXRDevice.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRInput.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\XRGestureConfig.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRCamera.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AugmentedReality\Public\ARSupportInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AugmentedReality\Public\ARTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\AugmentedReality\ARTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AugmentedReality\Public\ARSessionConfig.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AugmentedReality\Public\ARTrackable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AugmentedReality\Public\ARComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MRMesh\Public\MRMeshBufferDefines.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\AugmentedReality\ARComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\AugmentedReality\ARTrackable.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\AugmentedReality\ARSessionConfig.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AugmentedReality\Public\ARTextures.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureCube.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\TextureCube.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\AugmentedReality\ARTextures.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\DefaultSpectatorScreenController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\ISpectatorScreenController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\SceneViewExtensionContext.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\SceneViewExtensionContext.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\XRRenderTargetManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\StereoRenderTargetManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\ClearQuad.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\CommonRenderResources.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\ShaderParameterStruct.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderGraphResources.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderGraphParameter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderGraphTextureSubresource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderGraphResources.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\ScreenRendering.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/GameEngine.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/MovieSceneCapture/Public/MovieSceneCaptureHandle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\GameEngine.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\GameModeBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Slate/SceneViewport.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Source/XRSimulation/Private/XRSimulationModule.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplayModule.h
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Source/XRSimulation/Private/XRSimulationRuntimeSettings.cpp
+F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/UXTools.0.12.0.UE-4.27.0/UXTools/Source/XRSimulation/Private/XRSimulationState.cpp
