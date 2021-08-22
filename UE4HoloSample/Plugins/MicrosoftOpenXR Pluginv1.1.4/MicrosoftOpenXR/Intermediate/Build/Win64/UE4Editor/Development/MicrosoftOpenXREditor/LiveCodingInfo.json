@@ -1,9 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.MicrosoftOpenXREditor.cpp.obj": [
-			"MicrosoftOpenXRDetails.cpp.obj",
-			"MicrosoftOpenXREditorModule.cpp.obj"
-		]
-	}
-}

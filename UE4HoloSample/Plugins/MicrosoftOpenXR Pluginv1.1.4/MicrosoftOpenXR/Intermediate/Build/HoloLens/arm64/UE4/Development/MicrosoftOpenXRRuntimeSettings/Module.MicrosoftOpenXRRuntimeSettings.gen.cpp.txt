@@ -1,7 +1,0 @@
-F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\HoloLens\arm64\UE4\Development\MicrosoftOpenXRRuntimeSettings\Definitions.MicrosoftOpenXRRuntimeSettings.h
-F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/MicrosoftOpenXR Pluginv1.1.4/MicrosoftOpenXR/Intermediate/Build/HoloLens/arm64/UE4/Inc/MicrosoftOpenXRRuntimeSettings/MicrosoftOpenXRRuntimeSettings.gen.cpp
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXRRuntimeSettings/Public/MicrosoftOpenXRRuntimeSettings.h
-F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Intermediate\Build\HoloLens\arm64\UE4\Inc\MicrosoftOpenXRRuntimeSettings\MicrosoftOpenXRRuntimeSettings.generated.h
-F:/Git/GitHub/UE4HoloSample/UE4HoloSample/Plugins/MicrosoftOpenXR Pluginv1.1.4/MicrosoftOpenXR/Intermediate/Build/HoloLens/arm64/UE4/Inc/MicrosoftOpenXRRuntimeSettings/MicrosoftOpenXRRuntimeSettings.init.gen.cpp

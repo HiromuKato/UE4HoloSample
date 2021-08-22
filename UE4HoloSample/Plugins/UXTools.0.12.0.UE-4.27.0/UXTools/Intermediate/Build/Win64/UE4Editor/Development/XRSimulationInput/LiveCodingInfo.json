@@ -1,9 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.XRSimulationInput.cpp.obj": [
-			"XRSimulationInputDevice.cpp.obj",
-			"XRSimulationInputModule.cpp.obj"
-		]
-	}
-}

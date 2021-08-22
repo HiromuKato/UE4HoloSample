@@ -1,8 +1,0 @@
-{
-	"OutputFiles": [
-		"Module.XRSimulation.cppa7.o",
-		"Module.XRSimulation.cppa8.o",
-		"Module.XRSimulation.gen.cppa7.o",
-		"Module.XRSimulation.gen.cppa8.o"
-	]
-}

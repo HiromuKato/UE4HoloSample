@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Project>
-  <PropertyGroup>
-    <MicrosoftAzureSpatialAnchorsWinRT-PackagePath>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\..\'))</MicrosoftAzureSpatialAnchorsWinRT-PackagePath>
-    <MicrosoftAzureSpatialAnchorsWinRT-Platform>$(Platform)</MicrosoftAzureSpatialAnchorsWinRT-Platform>
-    <MicrosoftAzureSpatialAnchorsWinRT-Platform Condition="'$(Platform)' == 'Win32'">x86</MicrosoftAzureSpatialAnchorsWinRT-Platform>
-  </PropertyGroup>
-</Project>

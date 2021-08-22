@@ -1,2 +1,0 @@
-C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Public\OpenXRCore.h
-F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR\Private\External\openxr/openxr_reflection.h

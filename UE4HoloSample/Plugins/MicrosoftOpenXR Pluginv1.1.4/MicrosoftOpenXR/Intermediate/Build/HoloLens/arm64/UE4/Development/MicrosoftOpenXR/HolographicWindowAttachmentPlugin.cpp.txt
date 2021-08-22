@@ -1,2 +1,0 @@
-F:\Git\GitHub\UE4HoloSample\UE4HoloSample\Plugins\MicrosoftOpenXR Pluginv1.1.4\MicrosoftOpenXR\Source\MicrosoftOpenXR\Private\HolographicWindowAttachmentPlugin.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\ApplicationCore\Public\HoloLens/HoloLensApplication.h
