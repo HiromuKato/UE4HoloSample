@@ -2,7 +2,7 @@
 
 UE4 で HoloLens 2 の各種機能をレベルに分けて実装したサンプル集です。
 
-動作確認環境：
+## 動作確認環境
 - Unreal Engine
   - 4.27.0
 - HoloLens 2
@@ -10,6 +10,35 @@ UE4 で HoloLens 2 の各種機能をレベルに分けて実装したサンプ�
   - OS ビルド：20348.1014
 
 **Windows Mixed Reality プラグインは無効にし、 Microsoft OpenXR Plugin を有効にしています**
+
+## ビルド・デプロイ手順
+
+1. UE4HoloSample\ThirdParty\HoloLensWinrtDLL\HoloLensWinrtDLL.vcxproj を Visual Studio で開き、ARM64, Release でビルドし、dllを生成します
+
+2. メニューの Edit > Project Settins... を選択し、Platforms > HoloLens の Packaging > Signing Certificate の Generate new ボタンを押下し、表示されたダイアログで None を選択して証明書を作成します
+
+3. メニューの File > Package Project > HoloLens を選択して任意のフォルダにパッケージを作成します
+
+    パッケージ作成中に以下のような Char.h に関するエラーが出た場合は、
+
+    ```
+    UATHelper: Packaging (HoloLens):     C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Char.h(1): error C4819: �t�@�C���́A���݂̃R�[�h �y�[�W (932) �ŕ\���ł��Ȃ�������܂�ł��܂��B�f�[�^�̑�����h�����߂ɁA�t�@�C���� Unicode �`���ŕۑ����Ă��������B
+    ```
+
+    Char.h をVisual Studio で開き、以下のコメントを削除してください
+  
+    ```cpp
+    /**
+    * Avoid sign extension problems with signed characters smaller than int
+    *
+    * E.g. 'Ö' - 'A' is negative since the char 'Ö' (0xD6) is negative and gets
+    * sign-extended to the 32-bit int 0xFFFFFFD6 before subtraction happens.
+    *
+    * Mainly needed for subtraction and addition.
+    */
+    ```
+
+4. デバイスポータルからパッケージをインストールします
 
 ## BasicLevel
 
